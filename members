@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Members</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+  
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="css/1-col-portfolio.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="C:\Users\DELL\Desktop\bootstrap\c1.css"/>
+
+
+     <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  
+  <style>
+  
+  .fa {
+  padding: 20px;
+  font-size: 20px;
+  width: 30px;
+  height:30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+  </style>
+
+  </head>
+
+  <body>
+  
+    <nav class="site-header sticky-top py-1">
+      <div class="container d-flex flex-column flex-md-row justify-content-between">
+        <a class="py-2" href="#">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="d-block mx-auto"><circle cx="12" cy="12" r="10"></circle><line x1="14.31" y1="8" x2="20.05" y2="17.94"></line><line x1="9.69" y1="8" x2="21.17" y2="8"></line><line x1="7.38" y1="12" x2="13.12" y2="2.06"></line><line x1="9.69" y1="16" x2="3.95" y2="6.06"></line><line x1="14.31" y1="16" x2="2.83" y2="16"></line><line x1="16.62" y1="12" x2="10.88" y2="21.94"></line></svg>
+        </a>
+        <a class="py-2 d-none d-md-inline-block" href="C:\Users\DELL\Desktop\bootstrap\webproject.html">Home</a>
+        <a class="py-2 d-none d-md-inline-block" href="file:///C:/Users/DELL/Desktop/bootstrap/football/index.html">Football</a>
+        <a class="py-2 d-none d-md-inline-block  nav-item active" href="‪">Members</a>
+        <a class="py-2 d-none d-md-inline-block" href="‪file:///C:/Users/DELL/Desktop/bootstrap/The%20Club/index.html">The club</a>
+        <a class="py-2 d-none d-md-inline-block" href="https://www.realmadrid.com/en/football/photos">Photo Gallary</a>
+        <a class="py-2 d-none d-md-inline-block" href="https://www.adidas.com/us/real_madrid-soccer">Cart</a>
+      </div>
+    </nav>
+   
+ <!--<small>    
+<div class="container">
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item ">
+        <a class="nav-link" href="#">NEWS</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">MEMBERS SERVICES</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">MEMBERS</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link " href="#">SEASON TICKET HOLDER</a>
+      </li>
+       <li class="nav-item">
+        <a class="nav-link " href="#">ARRANGEMENTS</a>
+      </li>
+        <li class="nav-item">
+        <a class="nav-link " href="#">REGULATIONS</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+ </div>
+</small>-->
+
+<div class="container">
+  <big><h1 style="font-size:45px"><strong><b>Members</b></strong></h1></big>
+  <p>Members</p>
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="A1.jpg" width="1200px" alt="Los Angeles">
+    </div>
+
+    <div class="item">
+      <img src="A2.jpg" width="1200px" alt="Chicago">
+    </div>
+
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+</div>
+
+<br>
+
+
+    <!-- Page Content -->
+    <div class="container">
+
+      <!-- Page Heading -->
+   
+
+      <!-- Project One -->
+      <div class="row">
+        <div class="col-md-7">
+          <a href="#">
+            <img class="img-fluid rounded mb-3 mb-md-0" src="b1.jpg" alt="">
+          </a>
+  
+  <br>
+  <br> 
+          <p>NEWS<br> 
+<small><b>
+FLORENTINO PÉREZ: "WE ARE WITNESSING HISTORY IN TERMS OF THE SPORTING, SOCIAL AND ECONOMIC SIDES, WHICH IS HISTORIC" </b>
+<br>
+<br>
+"We are the club with the highest revenues in the world, this allows us to take our place in a demanding international market," added the president in his opening speech at the Ordinary General Assembly 2018.</small></p>
+        <a href="#" class="fa fa-facebook"></a>
+			<a href="#" class="fa fa-twitter"></a>
+		</div>
+        <div class="col-md-5">
+           <img class="img-fluid rounded mb-3 mb-md-0" src="b2.jpg" alt="">
+
+          
+          <p><small>
+<b>NEWS <br>
+FLORENTINO PÉREZ: “THE NEW 21ST CENTURY SANTIAGO BERNABÉU WILL BE THE SETTING FOR THE EXCITEMENT THAT REAL MADRID HAS IN STORE FOR THE FUTURE”</b><br>
+“An avant-garde venue that will be iconic within Madrid, that satisfies the current demands of the club members and that allows us to increase the club’s income to continue to lead the way”, said the president at the Extraordinary General Assembly 2018.</small></p>
+  <a href="#" class="fa fa-facebook"></a>
+			<a href="#" class="fa fa-twitter"></a>
+			
+			<br>
+  
+  <img class="img-fluid rounded mb-3 mb-md-0" src="b3.jpg" alt="">
+ <small><p>NEWS<br>
+<b>NEWS
+LASO: “WE SHOWED WHY WE WERE FAVOURITES FROM MINUTE ONE”</b>
+“It was a complete performance from the beginning”, added Tavares..</p></small></b>
+         
+		 <a href="#" class="fa fa-facebook"></a>
+			<a href="#" class="fa fa-twitter"></a>
+        </div>
+      </div>
+      <!-- /.row -->
+
+      <!-- Project Two -->
+      <div class="row">
+
+        <div class="col-md-7">
+          <a href="#">
+            <img class="img-fluid rounded mb-3 mb-md-0" src="b4.jpg" alt="" >
+            <img class="img-fluid rounded mb-3 mb-md-0" src="b5.jpg " alt="" hspace="10">
+                 </a>
+            <p>NEWS <br>
+          <small>  <b>
+NEWS
+REAL MADRID PRESENTED 2,098 INSIGNIAS &nbsp NEWS
+FLORENTINO PÉREZ: "REAL MADRID <br> </b>
+Florentino Pérez presided over the event
+which &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<b> TRANSFORMS HISTORY INTO LEGACY" </b><br> recognises members who have
+served 25, 50 and <br>  60 years of
+uninterrupted loyalty to the club..</p></small>
+     <a href="#" class="fa fa-facebook"></a>
+			<a href="#" class="fa fa-twitter"></a>
+			<br>
+          
+<img class="img-fluid rounded mb-3 mb-md-0" src="b6.jpg " alt="">
+<img class="img-fluid rounded mb-3 mb-md-0" src="b7.jpg " alt="" hspace="10">
+
+<p><small>NEWS<br>
+<b>
+FLORENTINO PÉREZ: “WE'VE EXPERIENCED OUR &nbsp 
+&nbsp  &nbsp 
+NEWS
+FLORENTINO PÉREZ: “WE'RE A MODEL FOR 
+BEST SEASON, IN TERMS OF TITLE TRIUMPHS, &nbsp &nbsp &nbsp   &nbsp  &nbsp SUCCESS THANKS TO THE UNITY AND STRENGTH OF  <br>  IN
+OUR 115-YEAR HISTORY”</b>
+"So long &nbsp as &nbsp we've &nbsp &nbsp &nbsp  &nbsp  &nbsp   <b>MADRIDISMO” </b><br>maintained the unity of
+madridismo, we've  achieved <br> our
+objectives regardless of how &nbsp  impossible
+they <br>&nbsp  may have appeared” , &nbsp  added the  
+president in his <br> opening speech  at  the
+2017 Assembly.</small></p>
+          
+
+		  <a href="#" class="fa fa-facebook"></a>
+			<a href="#" class="fa fa-twitter"></a>
+        </div>
+
+        <div class="col-md-5">
+           <img class="img-fluid rounded mb-3 mb-md-0" src="b8.jpg" alt="">
+          </a>
+     <p> <small>  NEWS <br>
+<b> ALL POINTS ADDRESSED AT ORDINARY GENERAL
+ASSEMBLY APPROVED </b>
+Real Madrid's representative members
+gave their backing to the 2017/18
+accounts, the 2018/19 budget and the
+membership fees for 2019/20.</small> </p>
+          <img class="img-fluid rounded mb-3 mb-md-0" src="b9.jpg" alt="">
+          <p><small>NEWS<br>
+<b>THE ONLY POINT ADDRESSED AT THE
+EXTRAORDINARY GENERAL ASSEMBLY WAS
+APPROVED </b>
+Representative members gave ther
+approval to the board of directors to take
+on debts as part of the remodelling costs
+of the Santiago Bernabéu.</small></p>
+			<a href="#" class="fa fa-facebook"></a>
+			<a href="#" class="fa fa-twitter"></a>
+        </div>
+      </div>
+      <!-- /.row -->
+   
+
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <footer class="container py-5">
+      <div class="row">
+        <div class="col-12 col-md">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="d-block mb-2"><circle cx="12" cy="12" r="10"></circle><line x1="14.31" y1="8" x2="20.05" y2="17.94"></line><line x1="9.69" y1="8" x2="21.17" y2="8"></line><line x1="7.38" y1="12" x2="13.12" y2="2.06"></line><line x1="9.69" y1="16" x2="3.95" y2="6.06"></line><line x1="14.31" y1="16" x2="2.83" y2="16"></line><line x1="16.62" y1="12" x2="10.88" y2="21.94"></line></svg>
+          <small class="d-block mb-3 text-muted">© 2017-2018</small>
+        </div>
+        <div class="col-6 col-md">
+          <h5>Features</h5>
+          <ul class="list-unstyled text-small">
+            <li><a class="text-muted" href="#">Cool stuff</a></li>
+            <li><a class="text-muted" href="#">Random feature</a></li>
+            <li><a class="text-muted" href="#">Team feature</a></li>
+            <li><a class="text-muted" href="#">Stuff for developers</a></li>
+            <li><a class="text-muted" href="#">Another one</a></li>
+            <li><a class="text-muted" href="#">Last time</a></li>
+          </ul>
+        </div>
+        <div class="col-6 col-md">
+          <h5>Resources</h5>
+          <ul class="list-unstyled text-small">
+            <li><a class="text-muted" href="#">Resource</a></li>
+            <li><a class="text-muted" href="#">Resource name</a></li>
+            <li><a class="text-muted" href="#">Another resource</a></li>
+            <li><a class="text-muted" href="#">Final resource</a></li>
+          </ul>
+        </div>
+        <div class="col-6 col-md">
+          <h5>Resources</h5>
+          <ul class="list-unstyled text-small">
+            <li><a class="text-muted" href="#">Business</a></li>
+            <li><a class="text-muted" href="#">Education</a></li>
+            <li><a class="text-muted" href="#">Government</a></li>
+            <li><a class="text-muted" href="#">Gaming</a></li>
+          </ul>
+        </div>
+        <div class="col-6 col-md">
+          <h5>About</h5>
+          <ul class="list-unstyled text-small">
+            <li><a class="text-muted" href="#">Team</a></li>
+            <li><a class="text-muted" href="#">Locations</a></li>
+            <li><a class="text-muted" href="#">Privacy</a></li>
+            <li><a class="text-muted" href="#">Terms</a></li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+
+
+  </body>
+
+</html>
