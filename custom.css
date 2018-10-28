@@ -1,0 +1,12 @@
+.customStyle{
+    margin:3px;
+    min-height:300px;
+    background-color: silver;
+    text-align: center;
+}
+.nav { height:4%;}
+
+#nav3{ height:70px;}
+  
+#nav1 { height:40px;background-color: rgba(0, 0, 0); color:rgb(255, 255, 255);}
+.vl{height:30px; width: 1px; background-color:silver;margin-top:3px;}

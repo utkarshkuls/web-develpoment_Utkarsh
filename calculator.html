@@ -1,0 +1,57 @@
+<!doctype.html>
+
+<head>
+    <title>
+        JQuery Calculator
+    </title>
+</head>
+<body>
+<input type="text" id="txtn1">
+<input type="text" id="txtn2">
+<button id="btnadd">Add</button>
+<button id="btnsubs">Substract</button>
+<button id="btndivide">Divide</button>
+<button id="btnmulti">Multiply</button>
+</body>
+</html>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#btnadd').on('click', function () {
+            var n1 = parseInt($('#txtn1').val());
+            var n2 = parseInt($('#txtn2').val());
+            var r = n1 + n2;
+            alert("sum of 2 No= " + r);
+            return false;
+        });
+        $('#btnsubs').on('click', function () {
+            var n1 = parseInt($('#txtn1').val());
+            var n2 = parseInt($('#txtn2').val());
+            var r = n1 - n2;
+            alert("Substraction of 2 No= " + r);
+            return false;
+        });
+        $('#btndivide').on('click', function () {
+            var n1 = parseInt($('#txtn1').val());
+            var n2 = parseInt($('#txtn2').val());
+            var r = n1 / n2;
+            alert("Divide of 2 No= " + r);
+            return false;
+        });
+        $('#btnmulti').on('click', function () {
+            var n1 = parseInt($('#txtn1').val());
+            var n2 = parseInt($('#txtn2').val());
+            var r = n1 * n2;
+            alert("Product of 2 No= " + r);
+            return false;
+        });
+        $('#btnclear').on('click', function () {
+            $('#txtn1').val('');
+            $('#txtn2').val('');
+            $('#txtn1').focus();
+            return false;
+        });
+    });
+</script>
+</html>
